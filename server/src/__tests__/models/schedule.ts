@@ -3,7 +3,7 @@ import ScheduleModel from "../../models/schedule";
 import { Schedule } from "../../entity/schedule";
 
 process.env.DB_USER = "user";
-process.env.DB_NAME = "calender";
+process.env.DB_NAME = "calendar";
 process.env.DB_PASS = "pass";
 
 const db = DB.instance;

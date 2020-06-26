@@ -1,3 +1,3 @@
 DB_USER=user
-DB_NAME=calender
+DB_NAME=calendar
 DB_PASS=pass
