@@ -20,5 +20,9 @@
 
 .schedules {
     overflow: scroll;
-    height: calc(20vh - 40px);
+    height: calc(20vh - 50px);
   }
+
+.schedules::-webkit-scrollbar {
+    display:none;
+}
